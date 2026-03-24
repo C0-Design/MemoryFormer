@@ -38,3 +38,10 @@ booktitle={The Thirty-eighth Annual Conference on Neural Information Processing 
 year={2024} 
 }
 ```
+
+
+Importantly, thank for the open-source community for the great jobs used in this project:
+
+https://github.com/mlpen/LookupFFN: LookupFFN, a great work from ICML which pioneer the architecture design for storage-based LLM
+
+https://github.com/libxsmm/libxsmm: LIBXSMM, a great library for specialized dense and sparse matrix operations
